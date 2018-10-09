@@ -6,7 +6,7 @@ It can handle a list of words in a string, or an array of words in JSON.
 The results that I came up with from this list is.
 from the words_alpha.txt file I got
 
-| word | file |
-| ---- | ---- |
+| word | file | original file |
+| ---- | ---- | ---- |
 |dichlorodiphenyltrichloroethane|words_alpha.txt|https://raw.githubusercontent.com/sindresorhus/word-list/master/words.txt|
 |intersubstitutabilities|words.json|https://raw.githubusercontent.com/words/an-array-of-english-words/master/words.json|
